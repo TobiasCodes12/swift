@@ -8,14 +8,14 @@
 
 ## ⚡️ Quick start
 
-- [ ] TODO: Determine/design this 
+- [ ] TODO: Determine / Design this 
 
 ---
 
 ## Example
 
-`swf csv --file path/to/file.csv --duplicate-check `
-`swf Doc --file path/to/file.csv --duplicate-check `
+- `swf csv --file path/to/file.csv --duplicate-check `
+- `swf Doc --file path/to/file.docx --duplicate-check `
 
 ### Commands and Flags
 
@@ -24,7 +24,7 @@ Command: `CSV`
 Command  | Flags | Description
 ------------- | ------------- | -------------
 **duplicates** | `--duplicate-check` `d` | Relocates duplicates to end of file and highlights. `-d` removes the duplicates.  
-**Copy**  | Content Cell
+**Copy**  | TODO
 
 
 Command: `Doc`
