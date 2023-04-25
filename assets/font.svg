@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="50">
+  <defs>
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Fredericka+the+Great&family=Kaushan+Script&display=swap");
+    </style>
+  </defs>
+  <text class="custom-text" x="0" y="30">Your Custom Text</text>
+</svg>
